@@ -1,27 +1,17 @@
-# Hi I'm Amneet 👋
-
+Hi, I'm Amneet 👋  
 Data Analyst based in Toronto.
 
-I specialize in:
-• SQL Analytics
-• Business Intelligence
-• Forecasting
+I specialize in building data-driven solutions using SQL, Python, and BI tools to analyze business performance, forecast demand, and optimize pricing and operations.
+
+Core areas:
+• SQL Analytics & Data Modeling
+• Business Intelligence & Dashboards
+• Demand Forecasting
 • Supply Chain Analytics
 • Pricing Optimization
 
-## Featured Projects
-📦 Supply Chain Delay Prediction
-
-📈 Retail Demand Forecasting
-
-💰 Pricing Optimization
-
-🏗 Sales Data Warehouse Architecture
-
-## Tools
-
-SQL | Python | Pandas | Scikit-learn | Power BI | Tableau
-
+Tools:
+SQL | Python | Pandas | Scikit-learn | Power BI | Tableau | Excel
 <!--
 **Amneetkaur24/Amneetkaur24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
