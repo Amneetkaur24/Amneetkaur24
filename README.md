@@ -19,9 +19,13 @@ I specialize in building data-driven solutions using SQL, Python, and BI tools t
 
 Core areas:
 • SQL Analytics & Data Modeling
+
 • Business Intelligence & Dashboards
+
 • Demand Forecasting
+
 • Supply Chain Analytics
+
 • Pricing Optimization
 
 Featured Projects:
