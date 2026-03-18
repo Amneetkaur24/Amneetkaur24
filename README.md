@@ -11,7 +11,7 @@ Core areas:
 • Pricing Optimization
 
 Tools:
-SQL | Python | Pandas | Scikit-learn | Power BI | Tableau | Excel
+SQL | Python | Pandas | Scikit-learn | Power BI | Tableau | Excel | Git | GitHub
 <!--
 **Amneetkaur24/Amneetkaur24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
