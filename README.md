@@ -3,7 +3,19 @@ Data Analyst based in Toronto.
 
 I specialize in building data-driven solutions using SQL, Python, and BI tools to analyze business performance, forecast demand, and optimize pricing and operations.
 
-<img width="857" height="492" alt="Screenshot 2026-03-16 162702" src="https://github.com/user-attachments/assets/8b1d06ef-6a91-4f65-824b-cb7b141a5595" />
+### 📊 Portfolio Highlights
+
+• Built a **Supply Chain Delay Prediction model** identifying key factors driving shipment delays and estimating potential cost impact across logistics operations.
+
+• Developed a **Retail Demand Forecasting model** to predict product demand trends and support inventory planning decisions.
+
+• Designed **Marketing Campaign Performance dashboards** analyzing CTR, conversions, and ROI to evaluate advertising effectiveness.
+
+• Built a **Sales Data Warehouse architecture** using SQL Server with ETL pipelines and star schema modeling to support business reporting.
+
+• Created **Customer Behavior Analytics dashboards** to identify purchasing trends, customer segmentation, and revenue drivers.
+
+• Developed **Pricing & Inventory Optimization analysis** to evaluate pricing strategies and their impact on margins and sales performance.
 
 Core areas:
 • SQL Analytics & Data Modeling
@@ -28,17 +40,6 @@ Featured Projects:
 
 Tools:
 SQL | Python | Pandas | Scikit-learn | Power BI | Tableau | Excel | Git | GitHub
-<!--
-**Amneetkaur24/Amneetkaur24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="857" height="492" alt="Screenshot 2026-03-16 162702" src="https://github.com/user-attachments/assets/8b1d06ef-6a91-4f65-824b-cb7b141a5595" />
