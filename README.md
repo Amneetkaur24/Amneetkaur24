@@ -3,6 +3,8 @@ Data Analyst based in Toronto.
 
 I specialize in building data-driven solutions using SQL, Python, and BI tools to analyze business performance, forecast demand, and optimize pricing and operations.
 
+<img width="857" height="492" alt="Screenshot 2026-03-16 162702" src="https://github.com/user-attachments/assets/8b1d06ef-6a91-4f65-824b-cb7b141a5595" />
+
 Core areas:
 • SQL Analytics & Data Modeling
 • Business Intelligence & Dashboards
