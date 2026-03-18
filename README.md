@@ -10,10 +10,12 @@ I specialize in:
 • Pricing Optimization
 
 ## Featured Projects
-
 📦 Supply Chain Delay Prediction
+
 📈 Retail Demand Forecasting
+
 💰 Pricing Optimization
+
 🏗 Sales Data Warehouse Architecture
 
 ## Tools
