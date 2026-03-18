@@ -12,6 +12,15 @@ Core areas:
 • Supply Chain Analytics
 • Pricing Optimization
 
+Featured Projects:
+
+📦 Supply Chain Delay Prediction & Cost Impact
+📈 Retail Demand Forecasting & Inventory Analytics
+💰 Pricing & Inventory Optimization
+📊 Marketing Campaign Performance Dashboard
+🏗 Sales Data Warehouse Architecture (SQL Server)
+🛍 Sales & Customer Behavior Analytics Dashboard
+
 Tools:
 SQL | Python | Pandas | Scikit-learn | Power BI | Tableau | Excel | Git | GitHub
 <!--
