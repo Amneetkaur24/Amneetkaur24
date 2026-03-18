@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi I'm Amneet 👋
+
+Data Analyst based in Toronto.
+
+I specialize in:
+• SQL Analytics
+• Business Intelligence
+• Forecasting
+• Supply Chain Analytics
+• Pricing Optimization
+
+## Featured Projects
+
+📦 Supply Chain Delay Prediction
+📈 Retail Demand Forecasting
+💰 Pricing Optimization
+🏗 Sales Data Warehouse Architecture
+
+## Tools
+
+SQL | Python | Pandas | Scikit-learn | Power BI | Tableau
 
 <!--
 **Amneetkaur24/Amneetkaur24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
